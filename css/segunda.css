@@ -1,0 +1,22 @@
+#segunda h3, h4, h2 {
+    text-align: center;
+	color: #fff;
+	}
+	
+	
+	#segunda .contenedor {
+	
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+	}
+	
+	#segunda img {
+    width: 100%;
+	height: 400;
+	text-align: center;
+	
+	#segunda article {
+    margin: 15px;
+	
+}
