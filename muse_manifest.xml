@@ -1,0 +1,115 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="html.com" resolutions="1x" timestamp="1536601063439">
+  <folder name="css">
+    <file name="site_global.css" crc="360162700"/>
+    <file name="master_a-p_g_-maestra.css" crc="3820394458" ref="plan-de-trabajo:semana-1:semana-4:material:semana-2:semana-3:index:sin-título-2:semanas"/>
+    <file name="plan-de-trabajo.css" crc="4156621793" ref="plan-de-trabajo"/>
+    <file name="semana-1.css" crc="472088758" ref="semana-1"/>
+    <file name="semana-4.css" crc="4143595341" ref="semana-4"/>
+    <file name="material.css" crc="511249410" ref="material"/>
+    <file name="semana-2.css" crc="463850381" ref="semana-2"/>
+    <file name="semana-3.css" crc="46449001" ref="semana-3"/>
+    <file name="index.css" crc="492721669" ref="index"/>
+    <file name="sin-t_tulo-2.css" crc="511249410" ref="sin-título-2"/>
+    <file name="semanas.css" crc="4189313741" ref="semanas"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="museutils.js" crc="4216313831" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="webpro.js" crc="4143865194" ref="index:semana-1"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="require.js" crc="3951022091" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="semana-1:semana-2:semana-4:plan-de-trabajo"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="semana-1"/>
+  </folder>
+  <folder name="images">
+    <file name="bio inca r(3).png" crc="101143117" seo="true" ref="index:sin-título-2:material:semanas:semana-1:semana-3:semana-2:semana-4:plan-de-trabajo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="semana-1" alt=""/>
+      <caption webpage="plan-de-trabajo" alt=""/>
+      <caption webpage="material" alt=""/>
+      <caption webpage="semana-4" alt=""/>
+      <caption webpage="semanas" alt=""/>
+      <caption webpage="semana-3" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="sin-título-2" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-01.jpg" crc="492754019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cabecera-02.jpg" crc="524066571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabecera-03.jpg" crc="4287590828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="quienes-somos.png" crc="336959440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que-hacemos.png" crc="482448688" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4240779973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="137129301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="369931805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafico.png" crc="412497843" ref="semanas">
+      <caption webpage="semanas" alt=""/>
+    </file>
+    <file name="web.png" crc="329871790" ref="semanas">
+      <caption webpage="semanas" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="semanas">
+      <caption webpage="semanas" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-09-10 a las 94749-u5307-fr.jpg" crc="3825344428" ref="semana-1"/>
+    <file name="captura de pantalla 2018-09-09 a las 125650.jpg" crc="4124000222" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-09-10 a las 102225-u5304-fr.jpg" crc="285560626" ref="semana-1"/>
+    <file name="captura de pantalla 2018-09-10 a las 102406.jpg" crc="358239106" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-09-10 a las 104652-u5706-fr.jpg" crc="3844134369" ref="semana-2"/>
+    <file name="descarga.jpg" crc="3908173525" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="crean-sistema-basado-en-videojuegos-y-robots-para-terapias-de-rehabilitación-motora-847x450-u5772-fr.jpg" crc="534239502" ref="semana-2"/>
+    <file name="captura de pantalla 2018-09-10 a las 120252.jpg" crc="4275078325" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-09-10 a las 115712-u5870-fr.jpg" crc="502159313" ref="plan-de-trabajo"/>
+  </folder>
+  <file name="index.html" crc="4244188469" seo="true" mt="1536601048877" redirect="true"/>
+  <file name="sin-título-2.html" crc="4090289199" seo="true" mt="1536593802193" redirect="true"/>
+  <file name="material.html" crc="37023639" seo="true" mt="1536593802193" redirect="true"/>
+  <file name="semanas.html" crc="4287993054" seo="true" mt="1536593802208" redirect="true"/>
+  <file name="semana-1.html" crc="3935323345" seo="true" mt="1536600860973" redirect="true"/>
+  <file name="semana-3.html" crc="4011241178" seo="true" mt="1536597270168" redirect="true"/>
+  <file name="semana-2.html" crc="4044677061" seo="true" mt="1536596980965" redirect="true"/>
+  <file name="semana-4.html" crc="3833556963" seo="true" mt="1536600948019" redirect="true"/>
+  <file name="plan-de-trabajo.html" crc="511509506" seo="true" mt="1536598861730" redirect="true"/>
+</manifest>
